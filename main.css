@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+    @media  screen and (max-width:325px) {
+        svg.translate_icon{
+            width: 18px;
+            left: 4px;
+        }
+        
+    }
